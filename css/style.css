@@ -69,24 +69,44 @@ header{
 }
 
 .text-border-bottom p{
-    border-bottom: 1px solid #423f3f!important;
+    border-bottom: 1px solid #303030!important;
 }
 
 .ul-links a{
     text-decoration: none;
-    color:#9FA6B2 !important;
+    color:#969696 !important;
     
 }
 
 
 .footer-text-main-color{
-    color:#9FA6B2 !important;
+    color:#969696!important;
     font-size: 18px;
 
 }
 .text-border-bottom ul li {
-    border-bottom: 1px solid #423f3f!important;
+    border-bottom: 1px solid #303030!important;
     padding-bottom: 20px;
 
 
 }
+
+.footer-main-color{
+
+    background-color: #403d38 !important;
+}
+
+.footer-2{
+
+
+    background-color: #353330 !important;
+}
+
+.facebook-logo{
+    color: #0b0b9c !important;
+}
+.social-links-hover ul li a :hover{
+    color: #8e7754 !important;
+    transition: 500ms all ease-in-out;
+}
+
