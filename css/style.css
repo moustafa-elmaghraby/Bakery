@@ -107,6 +107,6 @@ header{
 }
 .social-links-hover ul li a :hover{
     color: #8e7754 !important;
-    transition: 500ms all ease-in-out;
+    transition: 100ms all ease-in-out;
 }
 
